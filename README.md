@@ -1,5 +1,5 @@
 # 💫 About Me:
-## Hi there I'm Danny👋<br><br>🧠 Computer Science Student at University of Toronto <br/><br>🖥️ AI Abuser and Lover <br/><br>👨‍💼 Co-Founder of Grogo Analytica <br/><br>🌐 Personal Website for More @shogundo.xyz <br/>
+## Hi there I'm Danny👋<br><br>🧠 Computer Science Student at University of Toronto <br/><br>🖥️ Run it <br/><br>👨‍💼 Co-Founder of Grogo Analytica <br/><br>🌐 Personal Website for More @shogundo.xyz <br/>
 
 
 ## 🌐 Socials:
