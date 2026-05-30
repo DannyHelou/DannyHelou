@@ -2,11 +2,6 @@
 ## Hi there I'm Danny👋<br><br>🧠 Computer Science Student at University of Toronto <br/><br>👨‍💼 Co-Founder of Grogo Analytica <br/><br>🌐 Personal Website for More @dannyhelou.dev <br/>
 
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=DannyHelou&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=DannyHelou&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DannyHelou&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
