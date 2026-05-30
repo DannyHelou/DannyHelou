@@ -1,9 +1,6 @@
 # 💫 About Me:
-## Hi there I'm Danny👋<br><br>🧠 Computer Science Student at University of Toronto <br/><br>🖥️ Run it <br/><br>👨‍💼 Co-Founder of Grogo Analytica <br/><br>🌐 Personal Website for More @dannyhelou.dev <br/>
+## Hi there I'm Danny👋<br><br>🧠 Computer Science Student at University of Toronto <br/><br>👨‍💼 Co-Founder of Grogo Analytica <br/><br>🌐 Personal Website for More @dannyhelou.dev <br/>
 
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/danny.h222) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Danny Helou) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Danny Helou) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Danny Helou) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dannyhelou817@gmail.com) 
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=DannyHelou&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
