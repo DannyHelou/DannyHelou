@@ -1,5 +1,5 @@
 # 💫 About Me:
-## Hi there I'm Danny👋<br><br>🧠 Computer Science Student at University of Toronto <br/><br>👨‍💼 Co-Founder of Grogo Analytica <br/><br>🌐 Personal Website for More @dannyhelou.dev <br/>
+## Hi there I'm Danny👋<br><br>🧠 Computer Science Student at University of Toronto <br/><br>👨‍💼 Co-Founder of Gogo Analytica <br/><br>🌐 Personal Website for More @dannyhelou.dev <br/>
 
 
 ### ✍️ Random Dev Quote
